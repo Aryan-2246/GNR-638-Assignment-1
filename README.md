@@ -21,9 +21,9 @@ The main objective of this assignment is to demystify how modern deep learning f
 ---
 
 ## Requirements  
-- Python 3.10+ (tested with Python 3.14)  
+- Python 3.12 
 - pybind11  
-- C++17 compatible compiler (clang++ recommended on macOS)  
+- C++17 compatible compiler
 - Git  
 
 ---
