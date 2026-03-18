@@ -36,3 +36,5 @@ Plots saved to `plots/`, checkpoints saved to `models/`.
 - Windows users: use `python -m pip` instead of `pip`
 - Set `num_workers=0` in DataLoader on Windows
 - Seed: 42
+- Add train-data in data folfer
+- 
